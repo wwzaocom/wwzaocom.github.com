@@ -1,3 +1,7 @@
+---
+layout: default
+title: Bible
+---
 ##### 圣经阅读
 
 | [和合本](http://www.godcom.net/hhb/)                      | [吕振中译本](http://www.godcom.net/lzz/)                  | [新译本](http://www.godcom.net/xinyiben/) | [丰盛生命研读本](http://www.godcom.net/fsdsm/) |
