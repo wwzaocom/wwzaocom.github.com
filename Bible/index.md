@@ -12,6 +12,7 @@ title: Bible
 * [新约综合解读](https://cmcbiblereading.com/新约综合解读/)
 * [ABT](https://abibletool.com)
 * [微读圣经](https://wd.bible)
+* [圣经注释网](http://ts.zhsw.org/123/z/dgnsj/Books/CD_Commentary/gb/index.html)
 
 ##### 圣经查考
 * 律法书	  [创世记](1.md) [出埃及记](2.md) [利未记](3.md) [民数记](4.md) [申命记](5.md)
